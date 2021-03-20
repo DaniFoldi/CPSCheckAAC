@@ -1,0 +1,9 @@
+cpsCheck:
+  minCPS: 12.0
+  score: 50.0
+  scorePerCPS: 30.0
+  info: 'Player has a CPS maximum of {cps}'
+  clearTime: 60 #seconds
+  debug: false
+  maxClicks: 'Most clicks in one second:'
+  totalClicks: 'Total clicks saved:'
